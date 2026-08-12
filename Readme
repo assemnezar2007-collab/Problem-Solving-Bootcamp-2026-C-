@@ -1,0 +1,181 @@
+# 🚀 Problem Solving Bootcamp 2026 | C++
+
+Welcome to my **Problem Solving Bootcamp 2026**.
+
+This Bootcamp is designed for anyone who has finished the basics of programming and wants to start learning **Problem Solving** and prepare for **Competitive Programming**.
+
+## 🎯 Bootcamp Goal
+
+The main goal is not just to solve problems.
+
+It's to improve your:
+
+- 🧠 Logical Thinking
+- 💡 Problem Solving Skills
+- 🔍 Problem Analysis
+- 💻 C++ Coding Skills
+
+The main approach for solving each problem is:
+
+> **Understand → Think → Solve → Code**
+
+---
+
+## 👨‍💻 Who is this Bootcamp for?
+
+This Bootcamp is mainly for:
+
+- Students who finished Programming Fundamentals.
+- Beginners who want to start Problem Solving.
+- Computer Science students in their 1st or 2nd year.
+- Anyone who wants to build a strong foundation before starting Competitive Programming.
+
+---
+
+## 📚 Bootcamp Structure
+
+The Bootcamp contains **60 Problems**:
+
+| Platform | Problems |
+|----------|----------|
+| Aizu Online Judge | 44 |
+| Codeforces | 8 |
+| LeetCode | 8 |
+| **Total** | **60** |
+
+---
+
+## 🗺️ Roadmap
+
+### Part 1 — Aizu Online Judge
+**44 Problems**
+
+We start with easier problems and gradually improve our thinking and problem-solving skills.
+
+### Part 2 — Codeforces
+**8 Problems**
+
+After building the basics, we move to a different style of problems.
+
+### Part 3 — LeetCode
+**8 Problems**
+
+Finally, we solve problems from LeetCode and apply what we learned.
+
+---
+
+## 📺 YouTube Course
+
+The Bootcamp is **completely free on YouTube**.
+
+Videos will be released over **3 months**.
+
+🎥 **YouTube Playlist:**  
+[Add Playlist Link]
+
+---
+
+## 💻 Problem List
+
+| #  | Problem                                | Platform | Video | Solution |
+| -- | -------------------------------------- | -------- | ----- | -------- |
+| 1  | **1_A – Hello World**                  | Aizu     | 🔗    | 🔗       |
+| 2  | **1_B – X Cubic**                      | Aizu     | 🔗    | 🔗       |
+| 3  | **1_C – Rectangle**                    | Aizu     | 🔗    | 🔗       |
+| 4  | **1_D – Watch**                        | Aizu     | 🔗    | 🔗       |
+| 5  | **2_A – Small, Large, or Equal**       | Aizu     | 🔗    | 🔗       |
+| 6  | **2_B – Range**                        | Aizu     | 🔗    | 🔗       |
+| 7  | **2_C – Sorting Three Numbers**        | Aizu     | 🔗    | 🔗       |
+| 8  | **2_D – Circle in a Rectangle**        | Aizu     | 🔗    | 🔗       |
+| 9  | **3_A – Print Many Hello World**       | Aizu     | 🔗    | 🔗       |
+| 10 | **3_B – Print Test Cases**             | Aizu     | 🔗    | 🔗       |
+| 11 | **3_C – Swapping Two Numbers**         | Aizu     | 🔗    | 🔗       |
+| 12 | **3_D – How Many Divisors?**           | Aizu     | 🔗    | 🔗       |
+| 13 | **4_A – A / B Problem**                | Aizu     | 🔗    | 🔗       |
+| 14 | **4_B – Circle**                       | Aizu     | 🔗    | 🔗       |
+| 15 | **4_C – Simple Calculator**            | Aizu     | 🔗    | 🔗       |
+| 16 | **4_D – Min, Max and Sum**             | Aizu     | 🔗    | 🔗       |
+| 17 | **5_A – Print a Rectangle**            | Aizu     | 🔗    | 🔗       |
+| 18 | **5_B – Print a Frame**                | Aizu     | 🔗    | 🔗       |
+| 19 | **5_C – Print a Chessboard**           | Aizu     | 🔗    | 🔗       |
+| 20 | **5_D – Structured Programming**       | Aizu     | 🔗    | 🔗       |
+| 21 | **6_A – Reversing Numbers**            | Aizu     | 🔗    | 🔗       |
+| 22 | **6_B – Finding Missing Cards**        | Aizu     | 🔗    | 🔗       |
+| 23 | **6_C – Official House**               | Aizu     | 🔗    | 🔗       |
+| 24 | **6_D – Matrix Vector Multiplication** | Aizu     | 🔗    | 🔗       |
+| 25 | **7_A – Grading**                      | Aizu     | 🔗    | 🔗       |
+| 26 | **7_B – How many ways?**               | Aizu     | 🔗    | 🔗       |
+| 27 | **7_C – Spreadsheet**                  | Aizu     | 🔗    | 🔗       |
+| 28 | **7_D – Matrix Multiplication**        | Aizu     | 🔗    | 🔗       |
+| 29 | **8_A – Toggling Cases**               | Aizu     | 🔗    | 🔗       |
+| 30 | **8_B – Sum of Numbers**               | Aizu     | 🔗    | 🔗       |
+| 31 | **8_C – Counting Characters**          | Aizu     | 🔗    | 🔗       |
+| 32 | **8_D – Ring**                         | Aizu     | 🔗    | 🔗       |
+| 33 | **9_A – Finding a Word**               | Aizu     | 🔗    | 🔗       |
+| 34 | **9_B – Shuffle**                      | Aizu     | 🔗    | 🔗       |
+| 35 | **9_C – Card Game**                    | Aizu     | 🔗    | 🔗       |
+| 36 | **9_D – Transformation**               | Aizu     | 🔗    | 🔗       |
+| 37 | **10_A – Distance**                    | Aizu     | 🔗    | 🔗       |
+| 38 | **10_B – Triangle**                    | Aizu     | 🔗    | 🔗       |
+| 39 | **10_C – Standard Deviation**          | Aizu     | 🔗    | 🔗       |
+| 40 | **10_D – Distance II**                 | Aizu     | 🔗    | 🔗       |
+| 41 | **11_A – Dice I**                      | Aizu     | 🔗    | 🔗       |
+| 42 | **11_B – Dice II**                     | Aizu     | 🔗    | 🔗       |
+| 43 | **11_C – Dice III**                    | Aizu     | 🔗    | 🔗       |
+| 44 | **11_D – Dice IV**                     | Aizu     | 🔗    | 🔗       |
+-------------------------------------------------------------------------------
+| #  | Problem                             | Platform   | Video | Solution |
+| -- | ----------------------------------- | ---------- | ----- | -------- |
+| 45 | **Two Sum**                         | LeetCode   | 🔗    | 🔗       |
+| 46 | **Palindrome Number**               | LeetCode   | 🔗    | 🔗       |
+| 47 | **Roman to Integer**                | LeetCode   | 🔗    | 🔗       |
+| 48 | **Valid Parentheses**               | LeetCode   | 🔗    | 🔗       |
+| 49 | **Merge Two Sorted Lists**          | LeetCode   | 🔗    | 🔗       |
+| 50 | **Best Time to Buy and Sell Stock** | LeetCode   | 🔗    | 🔗       |
+| 51 | **Valid Anagram**                   | LeetCode   | 🔗    | 🔗       |
+| 52 | **Binary Search**                   | LeetCode   | 🔗    | 🔗       |
+| 53 | **Watermelon**                      | Codeforces | 🔗    | 🔗       |
+| 54 | **Way Too Long Words**              | Codeforces | 🔗    | 🔗       |
+| 55 | **Next Round**                      | Codeforces | 🔗    | 🔗       |
+| 56 | **Team**                            | Codeforces | 🔗    | 🔗       |
+| 57 | **Bit++**                           | Codeforces | 🔗    | 🔗       |
+| 58 | **Petya and Strings**               | Codeforces | 🔗    | 🔗       |
+| 59 | **Helpful Maths**                   | Codeforces | 🔗    | 🔗       |
+| 60 | **Bear and Big Brother**            | Codeforces | 🔗    | 🔗       |
+
+
+## 🧪 Final Exam
+
+At the end of the Bootcamp, there will be a **Final Exam** to test the skills you developed throughout the course.
+
+More details will be added later.
+
+---
+
+## 🎓 Certificate
+
+Students who successfully complete the Bootcamp requirements will have the opportunity to receive an **Honorary Certificate**.
+
+---
+
+## 📌 Important
+
+Try to solve each problem **before watching the solution**.
+
+The goal isn't to memorize the code.
+
+The goal is to learn **how to think**.
+
+---
+
+## 👤 About Me
+
+I'm **Assem Albon**, a Computer Science student interested in Programming, Problem Solving and Competitive Programming.
+
+I'm building this Bootcamp as part of my own learning journey and to help other beginners start their Problem Solving journey.
+
+---
+
+⭐ If you find this Bootcamp useful, consider giving this repository a **Star**.
+
+Happy Solving! 🚀
